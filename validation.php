@@ -16,7 +16,7 @@ $num = mysqli_num_rows($result);
  	header('location:hire-me.php');
  }else{
  	
- 	header('location:index1.html');
+ 	header('location:index1.php');
  }
 
  ?>
