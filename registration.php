@@ -1,6 +1,6 @@
 <?php
 session_start();
-header('location:index1.html');
+header('location:index1.php');
 
 	$fname = $_POST['fname'];
 	$email= $_POST['email'];
